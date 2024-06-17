@@ -275,7 +275,7 @@ background: linear-gradient(black,red);
                                                 }
                                                 
                                             
-                                                @media (max-width:700px){
+                                                @media (max-width:600px){
                                                     .bulbs{
                                                         height: 100px;
                                                         width:100%;
