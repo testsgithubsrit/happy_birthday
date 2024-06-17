@@ -169,19 +169,19 @@ background: linear-gradient(black,red);
                                                     }
                                                 }
                                                 .cake img{
-                                                    width: 300px;
-                                                    height: 300px;
+                                                    width: 400px;
+                                                    height: 400px;
                                                     position: absolute;
                                                     left:10%;
-                                                    top: 60%;
+                                                    top: 20%;
                                                     padding: 10px;
                                                     
                                                 }
                                                 
                                                 .candal{
                                                     position: absolute;
-                                                    top:55%;
-                                                    left:22%;
+                                                    top:73%;
+                                                    left:27%;
                                                     transform: translateX(-50%);
                                                 }
                                                 .candal-img{
