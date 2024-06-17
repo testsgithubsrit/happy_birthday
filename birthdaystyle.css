@@ -173,14 +173,14 @@ background: linear-gradient(black,red);
                                                     height: 400px;
                                                     position: absolute;
                                                     left:10%;
-                                                    top: 20%;
+                                                    top: 30%;
                                                     padding: 10px;
                                                     
                                                 }
                                                 
                                                 .candal{
                                                     position: absolute;
-                                                    top:73%;
+                                                    top:50%;
                                                     left:27%;
                                                     transform: translateX(-50%);
                                                 }
@@ -227,6 +227,7 @@ background: linear-gradient(black,red);
                                                     border-bottom:1px solid red;
                                                     transition: all 1s ease;
                                                     overflow: hidden;
+                                                    font-size:30px;
                                                 }
                                                 .para{
                                                     position: absolute;
